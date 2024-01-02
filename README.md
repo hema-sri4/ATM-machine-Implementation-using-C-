@@ -1,11 +1,11 @@
 ## ATM Machine Implementation using C++
 <hr>
-A program to create a simple ATM machine
-3 basic tasks of every ATM MACHINE  are :
-Withdraw money
-Deposit money 
-Balance Check
-Before these tasks the user has to enter the account details and pin number.
+A program to create a simple ATM machine. 
+Three basic tasks of every ATM MACHINE  are :<br>
+ - Withdraw money<br>
+ - Deposit money <br>
+ - Balance Check<br>
+Before these tasks ,the user has to enter the account details and pin number.<br>
 <hr>
 Screenshots of Code
 
